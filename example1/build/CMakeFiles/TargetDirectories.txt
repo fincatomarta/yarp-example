@@ -1,0 +1,4 @@
+/root/yarp-example/example1/build/CMakeFiles/sender.dir
+/root/yarp-example/example1/build/CMakeFiles/receiver.dir
+/root/yarp-example/example1/build/CMakeFiles/edit_cache.dir
+/root/yarp-example/example1/build/CMakeFiles/rebuild_cache.dir
