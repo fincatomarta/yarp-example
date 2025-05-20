@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/summer.dir/summer.cpp.o -o summer  -Wl,-rpath,/usr/local/lib /usr/local/lib/libYARP_init.so.3.11.100 /usr/local/lib/libYARP_os.so.3.11.100 
