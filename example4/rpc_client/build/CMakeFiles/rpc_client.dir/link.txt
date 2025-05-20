@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/rpc_client.dir/rpc_client.cpp.o -o rpc_client  -Wl,-rpath,/usr/local/lib /usr/local/lib/libYARP_init.so.3.11.100 /usr/local/lib/libYARP_os.so.3.11.100 
