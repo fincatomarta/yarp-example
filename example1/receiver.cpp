@@ -19,16 +19,16 @@ int main() {
     for (int i = 0; i < 10; ++i) {
         ok = Network::connect("/sender", "/receiver");
         if (ok) {
-            std::cout << "✅ Receiver connesso a /sender" << std::endl;
+            std::cout << "Receiver connesso a /sender" << std::endl;
             break;
         } else {
-            std::cout << "⏳ In attesa di connessione da /sender..." << std::endl;
+            std::cout << "In attesa di connessione da /sender..." << std::endl;
             std::this_thread::sleep_for(1s);
         }
     }
 
     if (!ok) {
-        std::cerr << "❌ Impossibile connettere /sender a /receiver." << std::endl;
+        std::cerr << "Impossibile connettere /sender a /receiver." << std::endl;
         return 1;
     }
 
