@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sender.dir/sender.cpp.o CMakeFiles/sender.dir/SharedData.cpp.o -o sender  -Wl,-rpath,/usr/local/lib /usr/local/lib/libYARP_sig.so.3.11.100 /usr/local/lib/libYARP_init.so.3.11.100 /usr/local/lib/libYARP_os.so.3.11.100 
